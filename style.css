@@ -5,6 +5,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+
+/*     sidebar section */
 }
 .sidebar {
     position: fixed;
@@ -209,6 +211,9 @@
 .sidebar .profile-details .job{
     font-size: 12px;
 }
+
+/* home section */
+
 .home-section{
     position: relative;
     background: #E4E9F7;
